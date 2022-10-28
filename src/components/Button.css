@@ -1,0 +1,16 @@
+.calcbtns {
+  height: 90px;
+  width: 90px;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  background-color: #272b33;
+  user-select: none;
+}
+
+.calcbtnsdouble {
+  width: 180px;
+  background: #ff5c00;
+}
